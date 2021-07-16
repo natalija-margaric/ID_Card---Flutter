@@ -1,2 +1,2 @@
 # ID_Card---Flutter
-Beginner project just to know basic (UI), and how flutter works
+Beginner project just to get familiar with basics (UI), and how flutter works
